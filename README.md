@@ -15,7 +15,7 @@ I'm a backend developer with experience in building efficient web applications. 
 [![Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,nextjs,react)](https://skillicons.dev)
 
 ### Tools & Technologies
-[![Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,postman,github)](https://skillicons.dev)
 
 ### Databases
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb)](https://skillicons.dev)
