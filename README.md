@@ -4,7 +4,7 @@ Backend Developer specializing in siem/soar security systems and API development
 
 ## About Me
 
-I'm a backend developer with experience in building efficient web applications. I focus on creating robust APIs, optimizing database performance, and implementing scalable system architectures.
+I'm a backend developer with experience in building cybersecurity applications.
 
 ## Technical Skills
 
